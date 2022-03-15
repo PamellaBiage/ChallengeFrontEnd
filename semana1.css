@@ -1,0 +1,107 @@
+.img-cabecalho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    max-width:100%;
+    max-height: 100%;
+    margin-left: 350px !important;
+    top: 0px;
+    background: #FFFFFF;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px
+}
+
+#input_pesquisa{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 16px;
+position: static;
+width: 393px;
+height: 40px;
+top: 5px;
+background: #F5F5F5;
+border-radius: 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin-left: 10%;
+}
+
+#botao-login{
+display: flex;
+flex-direction: row;
+justify-content:center ;
+align-items: center;
+text-align: center;
+padding: 16px 32px;
+width: 168px;
+height: 42px;
+margin-top: 20px !important;
+background: #FFFFFF;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 10px 0px;
+color: #2A7AE4;
+border-color: #2A7AE4;
+margin-right: 20%;
+
+}
+
+#texto-principal-star-wars{
+font-family: 'Raleway', sans-serif;;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+color: #464646;
+padding-top: 30px;
+text-align: center;
+margin-left: 320px;
+}
+
+#texto-ver-tudo{
+color: #2A7AE4;
+font-family: 'Raleway', sans-serif;;
+font-style: normal;
+size: 16px;
+font-weight: 700;
+padding-top: 40px;
+margin-left: 770px;
+}
+
+
+.primeira-imagem{
+   margin-left: 240px;
+}
+
+#produto, #preco{
+    margin-left: 240px;
+}
+
+#ver_produto{
+border: white;
+background-color: white;
+color: #2A7AE4;
+margin-left: 230px;
+font-weight: bold;
+}
+
+.segunda-imagem, .terceira-imagem{
+    margin-top: 15%;
+    
+}
+
+.padding-0{
+    padding: 5px !important;
+}
+
+#icon-seta{
+padding: 10px;
+}
