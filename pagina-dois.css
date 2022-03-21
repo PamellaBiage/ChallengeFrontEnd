@@ -1,0 +1,37 @@
+#formGroupExampleInput, #formGroupExampleInput2{
+    width: 423px;
+    height: 62px;
+    background-color: #FFFFFF;
+    margin-left: 360px;
+    margin-top: 7px;
+    border: none;
+    box-shadow: 0px 1px #C8C8C8;
+}
+
+#btn-entrar{
+    background-color: #2A7AE4;
+    width: 423px;
+    height: 62px;
+    margin-top: 40px;
+    font-family: 'Raleway', sans-serif;;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 360px;
+}
+
+#iniciar-sessao{
+    margin-left: 500px;
+    color: #464646;
+    font-family: 'Raleway', sans-serif;;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.rodape{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
