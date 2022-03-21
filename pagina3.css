@@ -1,0 +1,51 @@
+.img-cabecalho{
+    margin-top: -40px;
+}
+
+#produto{
+    color: #464646;
+    font-family: 'Raleway', sans-serif;;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 52px;
+    text-align: left;
+    margin-left: -10px;
+    margin-top: 95px;
+}
+
+#preco{
+    color: #464646;
+    font-family: 'Raleway', sans-serif;;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: left;
+    margin-left: -10px;
+}
+
+#descricao{
+    color: #464646;
+    font-family: 'Raleway', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    margin-left: -10px;
+    text-align: justify;
+}
+
+.img-fluid{
+    margin-top: 55px;
+    margin-left: -9px;
+    width: 100%;
+    height: auto;
+
+}
+
+#titulo-principal{
+    font-size: 32px;
+    color: #464646;
+    font-weight: 700;
+    margin-left: -10px;
+    margin-top: 50px;
+}
